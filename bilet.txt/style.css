@@ -1,0 +1,52 @@
+h1{
+    font-size: 30px;
+    color: rd;
+    text-transform: uppercase;
+    text-align: center;
+}
+h2{
+    font-size: 15px;
+    text-align: left;
+}
+h3{
+    font-size: 20px;
+    color: brown;
+    text-decoration: underline;
+}
+.blec{
+    font-size: 15px;
+    color: black;
+    font-style: oblique;
+}
+.color{
+    font-size: medium;
+    font-style: italic;
+    color: red;
+}
+.text{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+}
+.book{
+    text-align: right;
+    font-size: 20px;
+    text-decoration: line-through;
+}
+ol{
+    font-size: 15px;
+    font-style: italic;
+    text-shadow: 1px 1px 1px #000;
+}
+.ttext{
+    font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
+    font-style: oblique;
+    text-decoration: overline;
+    color: blue;
+}
+.colorred{
+    text-align: justify;
+    color: green;
+    white-space: 5px;
+    text-shadow: 1px 1px 5px greenyellow;
+}
