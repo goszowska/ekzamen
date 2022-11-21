@@ -1,19 +1,19 @@
-h1{
+h1 {
     font-size: 30px;
     color: rd;
     text-transform: uppercase;
     text-align: center;
 }
-h2{
+h2 {
     font-size: 15px;
     text-align: left;
 }
-h3{
+h3 {
     font-size: 20px;
     color: brown;
     text-decoration: underline;
 }
-.blec{
+.blec {
     font-size: 15px;
     color: black;
     font-style: oblique;
